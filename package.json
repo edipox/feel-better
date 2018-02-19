@@ -1,0 +1,33 @@
+{
+	"name": "Theme-feelbetter",
+	"displayName": "feel_better Theme",
+	"description": "feel_better fork from feelgood TextMate Theme",
+	"version": "0.0.2",
+	"publisher": "gerane",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/edipox/feelbetter/blob/master/edipox.Theme-feel_better/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/edipox/feelbetter.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "feel_better",
+				"uiTheme": "vs-dark",
+				"path": "./themes/feel_better.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a3b51daf-0f26-4feb-81be-11e89edc0700",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "edipox"
+	}
+}
