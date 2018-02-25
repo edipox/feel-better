@@ -1,6 +1,6 @@
-# feel-better
+# Feel Better
 
-A theme based on the [feel_good theme for VS Code](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-feel_good) which is based on [feel_good TextMate Theme](http://colorsublime.com/theme/feel_good) `¯\_(ツ)_/¯ `
+UI theme & color schema based on [feel_good theme for VS Code](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-feel_good) which is based on [feel_good TextMate Theme](http://colorsublime.com/theme/feel_good) `¯\_(ツ)_/¯ `
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/edipox/feel-better/master/screenshot.png)
