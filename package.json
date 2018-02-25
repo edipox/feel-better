@@ -1,45 +1,45 @@
 {
-	"name": "feel_better",
-	"displayName": "Feel Better UI Theme",
-	"description": "feel_better fork from feelgood TextMate Theme",
-	"version": "0.0.2",
-	"publisher": "edipox",
-	"author": "Edipo Vinicius da Silva <edipox@gmail.com> (https://github.com/edipox)",
-	"engines": {
-		"vscode": "^0.10.1"
-	},
-	"galleryBanner": {
-		"color": "#31364A",
-		"theme": "dark"
-	},
-	"categories": [
-		"Themes"
-	],
-	"icon": "icon.png",
-	"keywords": [
-		"material theme",
-		"palenight",
-		"material",
-		"theme",
-		"dark"
-	],
-	"homepage": "https://github.com/edipox/feelbetter/blob/master/edipox.Theme-feel_better/README.md",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/edipox/feelbetter.git"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Feel Better",
-				"uiTheme": "vs-dark",
-				"path": "./themes/feel_better.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "todo",
-		"publisherId": "todo",
-		"publisherDisplayName": "edipox"
-	}
+    "name": "feel-better",
+    "displayName": "Feel Better UI Theme",
+    "description": "Feel Better fork from feelgood TextMate Theme",
+    "version": "0.1.0",
+    "publisher": "edipox",
+    "author": "Edipo Vinicius da Silva <edipox@gmail.com> (https://github.com/edipox)",
+    "engines": {
+        "vscode": "^0.10.1"
+    },
+    "galleryBanner": {
+        "color": "#31364A",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "keywords": [
+        "material theme",
+        "palenight",
+        "material",
+        "theme",
+        "dark"
+    ],
+    "homepage": "https://github.com/edipox/feel-better/blob/master/edipox.Theme-feel_better/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/edipox/feel-better.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Feel Better",
+                "uiTheme": "vs-dark",
+                "path": "./themes/feel_better.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "todo",
+        "publisherId": "edipox",
+        "publisherDisplayName": "Edipo da Silva"
+    }
 }
