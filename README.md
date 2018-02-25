@@ -7,5 +7,5 @@ UI theme & color schema based on [feel_good theme for VS Code](https://github.co
 
 
 ## More Information
-* [Visual Studio Marketplace](TBD).
+* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=edipox.feel-better).
 * [GitHub repository](https://github.com/edipox/feel-better).
