@@ -18,7 +18,9 @@
     "tab.inactiveBackground": "#263341",
     "editor.background": "#1d2938",
     "sideBarSectionHeader.background": "#121f30",
-    "list.hoverBackground": "#152232"
+    "list.hoverBackground": "#152232",
+    "gitDecoration.modifiedResourceForeground": "#65dfe7",
+    "gitDecoration.untrackedResourceForeground": "#3f8d92"
   },
   "gutterSettings": {
     "background": "#403E49",
@@ -26,7 +28,7 @@
     "foreground": "#75715E"
   },
   "semanticClass": "theme.dark.monokai",
-  "settings": [
+  "tokenColors": [
     {
       "settings": {
         "background": "#263341",
@@ -204,6 +206,30 @@
       "settings": {
         "background": "#AE81FF",
         "foreground": "#F8F8F0"
+      }
+    },
+    {
+      "name": "normalize font style of certain components",
+      "scope": [
+        "meta.property-list.css meta.property-value.css variable.other.less",
+        "meta.property-list.scss variable.scss",
+        "meta.property-list.sass variable.sass",
+        "keyword.operator.logical",
+        "keyword.operator.arithmetic",
+        "keyword.operator.bitwise",
+        "keyword.operator.increment",
+        "keyword.operator.ternary",
+        "keyword.operator.comparison",
+        "keyword.operator.assignment",
+        "keyword.operator.operator",
+        "keyword.operator.or.regexp",
+        "keyword.operator.expression.in",
+        "keyword.operator.type",
+        "punctuation.definintion.string",
+        "punctuation"
+      ],
+      "settings": {
+        "fontStyle": "normal"
       }
     }
   ],
